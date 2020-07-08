@@ -5,4 +5,12 @@
         "package_name": "io.github.padr31.twa", 
         "sha256_cert_fingerprints": ["54:AE:E1:2A:96:12:F1:93:56:7E:9F:59:60:7C:B5:82:C8:72:27:7C:DB:BF:4B:A9:A0:EE:6A:93:62:C6:1E:64"]
     }
+},
+{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": { 
+        "namespace": "android_app", 
+        "package_name": "io.github.padr31.app.helloworld", 
+        "sha256_cert_fingerprints": ["35:5D:E1:52:DC:D4:9C:D9:9C:93:94:E5:CC:81:75:67:44:85:B1:07:D4:C6:40:EA:F0:03:B5:15:68:05:7D:B8"]
+    }
 }]
