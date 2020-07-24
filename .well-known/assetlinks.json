@@ -21,4 +21,12 @@
         "package_name": "io.github.padr31.app.helloworld", 
         "sha256_cert_fingerprints": ["35:5D:E1:52:DC:D4:9C:D9:9C:93:94:E5:CC:81:75:67:44:85:B1:07:D4:C6:40:EA:F0:03:B5:15:68:05:7D:B8"]
     }
+},
+{
+    "relation": ["delegate_permission/common.use_as_origin"],
+    "target": { 
+        "namespace": "android_app", 
+        "package_name": "org.chromium.customtabs", 
+        "sha256_cert_fingerprints": ["35:5D:E1:52:DC:D4:9C:D9:9C:93:94:E5:CC:81:75:67:44:85:B1:07:D4:C6:40:EA:F0:03:B5:15:68:05:7D:B8"]
+    }
 }]
